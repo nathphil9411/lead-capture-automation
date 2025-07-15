@@ -23,8 +23,7 @@ Automates processing of Google Form submissions to:
 | Slack         | Team alerts                 |
 
 ## 📽️ Demo
-[![Loom Demo](https://www.loom.com/share/13382a3db0604d1d86f2d6c9ec3111c9?sid=fd127c99-06cf-4e7f-a255-15c5be1a145c)
-
+[![Loom Demo](https://cdn.loom.com/sessions/thumbnails/13382a3db0604d1d86f2d6c9ec3111c9-with-play.gif)](https://www.loom.com/share/13382a3db0604d1d86f2d6c9ec3111c9)
 ## 🚀 Setup
 1. Import `lead_alert.json` into n8n
 2. Configure credentials for:
